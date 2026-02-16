@@ -56,10 +56,6 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>khanhashim9262</b></sub>
 </a>
 </td>
-<td align='center' width='120px'>
-<a href='https://github.com/Abhaypb'>
-<img src='https://avatars.githubusercontent.com/u/129545668?s=400&v=4' width='80px' style='border-radius:50%'><br>
-<sub><b>Abhaypb</b></sub>
 </tr>
 </table>
 <!-- CONTRIBUTORS-LIST:END -->
